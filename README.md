@@ -84,8 +84,7 @@
 ## Project Highlights
 
 ✔️ **Structured approach** with progressive learning from basic to advanced techniques.  
-✔️ **Hyperparameter tuning** using **Optuna** for best algorithm selection.  
-✔️ **User-friendly Deployment** with Django for real-time results.  
+✔️ **Hyperparameter tuning** using **Optuna** for best algorithm selection. 
 
 ---
 
